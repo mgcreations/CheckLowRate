@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowRate", "CheckLowRate.csproj", "{8EEFF4DF-E554-405A-A961-BDAD93954500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEFF4DF-E554-405A-A961-BDAD93954500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEFF4DF-E554-405A-A961-BDAD93954500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEFF4DF-E554-405A-A961-BDAD93954500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEFF4DF-E554-405A-A961-BDAD93954500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673B9AF0-3251-4EEA-A524-3F8FA9F01624}
+	EndGlobalSection
+EndGlobal
